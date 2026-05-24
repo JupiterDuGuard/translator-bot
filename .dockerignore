@@ -1,0 +1,11 @@
+.env
+.git
+.gitignore
+__pycache__
+*.pyc
+*.pyo
+.venv
+venv
+banwords.json
+README.md
+.DS_Store
